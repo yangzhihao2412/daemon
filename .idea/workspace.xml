@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee2d4bdd-1c74-46a6-ae1d-d74c9260d299" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/dbConfig.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/dbConfig.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/fuiouConfig.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/fuiouConfig.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/fuioukey/testpbkey.pem" beforeDir="false" afterPath="$PROJECT_DIR$/config/fuioukey/testpbkey.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/fuioukey/testprkey.pem" beforeDir="false" afterPath="$PROJECT_DIR$/config/fuioukey/testprkey.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/smtpConfig.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/smtpConfig.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core.php" beforeDir="false" afterPath="$PROJECT_DIR$/core.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Model.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Model.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/api/fuiou.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/api/fuiou.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/daemon.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/daemon.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/smtp.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/smtp.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/util.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/util.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/xml.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/xml.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/fuiouFullTask/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/log/fuiouFullTask/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/fuiouRepaymentDealCallback/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/log/fuiouRepaymentDealCallback/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/fuiouRevokeDealCallback/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/log/fuiouRevokeDealCallback/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/MailLog.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/MailLog.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/fuiouLogModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/fuiouLogModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/fuiouTaskModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/fuiouTaskModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/fuiouTaskStatusModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/fuiouTaskStatusModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/fuiouTask.php" beforeDir="false" afterPath="$PROJECT_DIR$/service/fuiouTask.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/mailTask.php" beforeDir="false" afterPath="$PROJECT_DIR$/service/mailTask.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/monitor.php" beforeDir="false" afterPath="$PROJECT_DIR$/service/monitor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zcjservice.php" beforeDir="false" afterPath="$PROJECT_DIR$/zcjservice.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/Model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1600" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/smtp.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3933" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/util.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-902" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/xml.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5073" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run/err.log">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run/.pid">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run/fuiouTask.pid">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run/mailTask.pid">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="services" type="b2602c69:ProjectViewProjectNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee2d4bdd-1c74-46a6-ae1d-d74c9260d299" name="Default Changelist" comment="" />
+      <created>1545879284032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545879284032</updated>
+      <workItem from="1545879285415" duration="1498000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1498000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22453083" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zcjservice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/smtpConfig.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/api/fuiou.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-798" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/fuiouConfig.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/daemon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5539">
+          <caret line="315" column="45" selection-start-line="315" selection-start-column="45" selection-end-line="315" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/smtp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3933" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/util.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-902" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/fuiouFullTask/2016-07-26_fulltaskLocalCallback.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/xml.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5073" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run/err.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run/.pid">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run/fuiouTask.pid">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run/runtime.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7809" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run/monitor.pid">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/monitor.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/mailTask.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-570" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/t.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run/mailTask.pid">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1600" />
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+[Unit]
+Description=zcjservice
+After=network.target remote-fs.target nss-lookup.target
+#Documentation=zcjservice
+
+[Service]
+Type=oneshot
+ExecStart=/usr/sbin/zcjservice start 
+ExecReload=/usr/sbin/zcjservice start
+ExecStop=/usr/sbin/zcjservice stop
+PrivateTmp=true
+RemainAfterExit=yes
+[Install]
+WantedBy=multi-user.target
