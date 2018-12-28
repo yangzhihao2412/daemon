@@ -2,7 +2,6 @@
 <?php 
 use lib\daemon;
 
-
 define("ROOTDIR",'/Users/yangzhihao/PhpstormProjects/services/');
 
 if (!defined('ROOTDIR')) {
