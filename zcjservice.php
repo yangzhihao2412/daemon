@@ -5,6 +5,10 @@ use lib\daemon;
 define("ROOTDIR",'/Users/yangzhihao/PhpstormProjects/services/');
 
 if (!defined('ROOTDIR')) {
+
+
+
+
 	echo "请先设置常量ROOTDIR";
 	exit;
 }
